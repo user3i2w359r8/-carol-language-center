@@ -1,0 +1,41 @@
+{
+  "id": "carol-language-courses-tripoli",
+  "name": "Carol for Language Courses",
+  "nameAr": "كارول لتعليم اللغات",
+  "baseUrl": "",
+  "email": "",
+  "telephone": "+96178957735",
+  "telephoneDisplay": "+961 78 957 735",
+  "landline": "+9616440070",
+  "landlineDisplay": "+961 6 440 070",
+  "whatsapp": "96178957735",
+  "instagram": "https://www.instagram.com/carol_for_language_courses_/",
+  "facebook": "",
+  "streetAddress": "Beshara Khoury Street, next to KFC, same building as Boulevard Pharmacy",
+  "streetAddressAr": "شارع بشارة الخوري، بجانب KFC، في مبنى صيدلية بولفار",
+  "city": "Tripoli",
+  "cityAr": "طرابلس",
+  "country": "Lebanon",
+  "countryAr": "لبنان",
+  "countryCode": "LB",
+  "latitude": 34.4297915,
+  "longitude": 35.8344667,
+  "mapUrl": "https://www.google.com/maps/place/Carol+for+language+courses/@34.4297915,35.8344667,17z/data=!3m1!4b1!4m6!3m5!1s0x1521f7a7dbf08dab:0xce3d3332c3dd05bb!8m2!3d34.4297915!4d35.8344667!16s%2Fg%2F11yd_7nh72",
+  "mapEmbedUrl": "https://maps.google.com/maps?q=34.4297915,35.8344667&z=17&output=embed",
+  "languages": [
+    "German",
+    "English",
+    "Italian",
+    "Spanish",
+    "French",
+    "Turkish"
+  ],
+  "languagesAr": [
+    "الألمانية",
+    "الإنكليزية",
+    "الإيطالية",
+    "الإسبانية",
+    "الفرنسية",
+    "التركية"
+  ]
+}

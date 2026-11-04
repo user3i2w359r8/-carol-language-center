@@ -1,0 +1,660 @@
+[
+  {
+    "file": "index.html",
+    "lang": "en",
+    "kind": "home",
+    "title": "Language courses in Tripoli | Carol for Language Courses",
+    "description": "Explore German, English, Italian, Spanish, French and Turkish courses at Carol in Tripoli, Lebanon. Find your language and contact us on WhatsApp.",
+    "label": "Home",
+    "versions": {
+      "en": "index.html",
+      "ar": "index-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      }
+    ],
+    "courseIndex": [
+      {
+        "name": "German",
+        "file": "german.html"
+      },
+      {
+        "name": "English",
+        "file": "english.html"
+      },
+      {
+        "name": "Italian",
+        "file": "italian.html"
+      },
+      {
+        "name": "Spanish",
+        "file": "spanish.html"
+      },
+      {
+        "name": "French",
+        "file": "french.html"
+      },
+      {
+        "name": "Turkish",
+        "file": "turkish.html"
+      }
+    ]
+  },
+  {
+    "file": "courses.html",
+    "lang": "en",
+    "kind": "courses",
+    "title": "Language courses in Tripoli, Lebanon | Carol",
+    "description": "Discover German, English, Italian, Spanish, French and Turkish at Carol in Tripoli, Lebanon. Explore each course and enquire directly with the center.",
+    "label": "Courses",
+    "versions": {
+      "en": "courses.html",
+      "ar": "courses-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      },
+      {
+        "name": "Courses",
+        "file": "courses.html"
+      }
+    ],
+    "courseIndex": [
+      {
+        "name": "German",
+        "file": "german.html"
+      },
+      {
+        "name": "English",
+        "file": "english.html"
+      },
+      {
+        "name": "Italian",
+        "file": "italian.html"
+      },
+      {
+        "name": "Spanish",
+        "file": "spanish.html"
+      },
+      {
+        "name": "French",
+        "file": "french.html"
+      },
+      {
+        "name": "Turkish",
+        "file": "turkish.html"
+      }
+    ]
+  },
+  {
+    "file": "german.html",
+    "lang": "en",
+    "kind": "course",
+    "title": "German lessons in Tripoli | Carol for Language Courses",
+    "description": "Explore German lessons at Carol for Language Courses in Tripoli, Lebanon. Tell us your learning goals, ask about the course and find the center.",
+    "label": "German",
+    "versions": {
+      "en": "german.html",
+      "ar": "german-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      },
+      {
+        "name": "Courses",
+        "file": "courses.html"
+      },
+      {
+        "name": "German",
+        "file": "german.html"
+      }
+    ],
+    "course": {
+      "name": "German courses at Carol",
+      "description": "Discover German at Carol for Language Courses in Tripoli. Whether you are meeting the language for the first time or returning to it, start by telling us what you want to do with it.",
+      "language": "German"
+    }
+  },
+  {
+    "file": "english.html",
+    "lang": "en",
+    "kind": "course",
+    "title": "English lessons in Tripoli | Carol for Language Courses",
+    "description": "Find English lessons at Carol for Language Courses in Tripoli, Lebanon. Share your goals for English and contact the center directly on WhatsApp.",
+    "label": "English",
+    "versions": {
+      "en": "english.html",
+      "ar": "english-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      },
+      {
+        "name": "Courses",
+        "file": "courses.html"
+      },
+      {
+        "name": "English",
+        "file": "english.html"
+      }
+    ],
+    "course": {
+      "name": "English courses at Carol",
+      "description": "Explore English at Carol for Language Courses in Tripoli. Bring your reason for learning, whether it is a daily conversation, an interest in your studies or feeling more comfortable expressing yourself.",
+      "language": "English"
+    }
+  },
+  {
+    "file": "italian.html",
+    "lang": "en",
+    "kind": "course",
+    "title": "Italian lessons in Tripoli | Carol for Language Courses",
+    "description": "Discover Italian lessons at Carol for Language Courses in Tripoli, Lebanon. Explore your reasons for learning Italian and ask the center about the course.",
+    "label": "Italian",
+    "versions": {
+      "en": "italian.html",
+      "ar": "italian-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      },
+      {
+        "name": "Courses",
+        "file": "courses.html"
+      },
+      {
+        "name": "Italian",
+        "file": "italian.html"
+      }
+    ],
+    "course": {
+      "name": "Italian courses at Carol",
+      "description": "Discover Italian at Carol for Language Courses in Tripoli. A love of the language, an interest in culture or a future journey can all be reasons to begin the conversation.",
+      "language": "Italian"
+    }
+  },
+  {
+    "file": "spanish.html",
+    "lang": "en",
+    "kind": "course",
+    "title": "Spanish lessons in Tripoli | Carol for Language Courses",
+    "description": "Explore Spanish lessons at Carol for Language Courses in Tripoli, Lebanon. Share your interests, ask about Spanish and get directions to the center.",
+    "label": "Spanish",
+    "versions": {
+      "en": "spanish.html",
+      "ar": "spanish-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      },
+      {
+        "name": "Courses",
+        "file": "courses.html"
+      },
+      {
+        "name": "Spanish",
+        "file": "spanish.html"
+      }
+    ],
+    "course": {
+      "name": "Spanish courses at Carol",
+      "description": "Explore Spanish at Carol for Language Courses in Tripoli. Start with your interests and the people, places or conversations that make you want to learn.",
+      "language": "Spanish"
+    }
+  },
+  {
+    "file": "french.html",
+    "lang": "en",
+    "kind": "course",
+    "title": "French courses in Tripoli, Lebanon | Carol",
+    "description": "Learn French at Carol for Language Courses in Tripoli, Lebanon. Explore French for conversation, study or travel and ask about available courses on WhatsApp.",
+    "label": "French",
+    "versions": {
+      "en": "french.html",
+      "ar": "french-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      },
+      {
+        "name": "Courses",
+        "file": "courses.html"
+      },
+      {
+        "name": "French",
+        "file": "french.html"
+      }
+    ],
+    "course": {
+      "name": "French courses at Carol",
+      "description": "Learn French at Carol for Language Courses on Beshara Khoury Street in Tripoli. Whether French is new to you or already part of your life, tell us what you want to understand, say or read with more confidence.",
+      "language": "French"
+    }
+  },
+  {
+    "file": "turkish.html",
+    "lang": "en",
+    "kind": "course",
+    "title": "Turkish courses in Tripoli, Lebanon | Carol",
+    "description": "Learn Turkish at Carol for Language Courses in Tripoli, Lebanon. Explore Turkish for everyday conversation, travel and culture. Contact the center directly.",
+    "label": "Turkish",
+    "versions": {
+      "en": "turkish.html",
+      "ar": "turkish-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      },
+      {
+        "name": "Courses",
+        "file": "courses.html"
+      },
+      {
+        "name": "Turkish",
+        "file": "turkish.html"
+      }
+    ],
+    "course": {
+      "name": "Turkish courses at Carol",
+      "description": "Explore Turkish at Carol for Language Courses in Tripoli. Your interest might start with a journey, a series you love or someone you want to speak with. Tell us your reason, and ask about the course options available.",
+      "language": "Turkish"
+    }
+  },
+  {
+    "file": "about.html",
+    "lang": "en",
+    "kind": "about",
+    "title": "About our language center in Tripoli | Carol",
+    "description": "Meet Carol for Language Courses, a welcoming language tutoring center on Beshara Khoury Street in Tripoli, Lebanon. Discover our center and its languages.",
+    "label": "Our center",
+    "versions": {
+      "en": "about.html",
+      "ar": "about-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      },
+      {
+        "name": "Our center",
+        "file": "about.html"
+      }
+    ]
+  },
+  {
+    "file": "contact.html",
+    "lang": "en",
+    "kind": "contact",
+    "title": "Contact & directions in Tripoli | Carol for Language Courses",
+    "description": "Contact Carol for Language Courses on +961 78 957 735. Find us on Beshara Khoury Street in Tripoli, next to KFC, in the Boulevard Pharmacy building.",
+    "label": "Visit & contact",
+    "versions": {
+      "en": "contact.html",
+      "ar": "contact-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "Home",
+        "file": "index.html"
+      },
+      {
+        "name": "Visit & contact",
+        "file": "contact.html"
+      }
+    ]
+  },
+  {
+    "file": "index-ar.html",
+    "lang": "ar",
+    "kind": "home",
+    "title": "دورات لغات في طرابلس | كارول لتعليم اللغات",
+    "description": "تعلّم الألمانية، الإنكليزية، الإيطالية، الإسبانية، الفرنسية، التركية في كارول لتعليم اللغات بطرابلس، لبنان. تعرّف على الدورات وتواصل معنا عبر واتساب واعرف موقع المركز.",
+    "label": "الرئيسية",
+    "versions": {
+      "en": "index.html",
+      "ar": "index-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      }
+    ],
+    "courseIndex": [
+      {
+        "name": "الألمانية",
+        "file": "german-ar.html"
+      },
+      {
+        "name": "الإنكليزية",
+        "file": "english-ar.html"
+      },
+      {
+        "name": "الإيطالية",
+        "file": "italian-ar.html"
+      },
+      {
+        "name": "الإسبانية",
+        "file": "spanish-ar.html"
+      },
+      {
+        "name": "الفرنسية",
+        "file": "french-ar.html"
+      },
+      {
+        "name": "التركية",
+        "file": "turkish-ar.html"
+      }
+    ]
+  },
+  {
+    "file": "courses-ar.html",
+    "lang": "ar",
+    "kind": "courses",
+    "title": "دورات لغات في طرابلس، لبنان | كارول",
+    "description": "اكتشف دورات اللغات في كارول بطرابلس، لبنان. لكلّ من الألمانية، الإنكليزية، الإيطالية، الإسبانية، الفرنسية، التركية صفحة خاصة لتعرف المزيد وتتواصل مع المركز.",
+    "label": "الدورات",
+    "versions": {
+      "en": "courses.html",
+      "ar": "courses-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      },
+      {
+        "name": "الدورات",
+        "file": "courses-ar.html"
+      }
+    ],
+    "courseIndex": [
+      {
+        "name": "الألمانية",
+        "file": "german-ar.html"
+      },
+      {
+        "name": "الإنكليزية",
+        "file": "english-ar.html"
+      },
+      {
+        "name": "الإيطالية",
+        "file": "italian-ar.html"
+      },
+      {
+        "name": "الإسبانية",
+        "file": "spanish-ar.html"
+      },
+      {
+        "name": "الفرنسية",
+        "file": "french-ar.html"
+      },
+      {
+        "name": "التركية",
+        "file": "turkish-ar.html"
+      }
+    ]
+  },
+  {
+    "file": "german-ar.html",
+    "lang": "ar",
+    "kind": "course",
+    "title": "دورات ألمانية في طرابلس | كارول لتعليم اللغات",
+    "description": "تعرّف على دورات الألمانية في كارول لتعليم اللغات بطرابلس، لبنان. احكِ لنا عن هدفك، اسأل عن الدورة واعرف كيف تصل إلى المركز.",
+    "label": "الألمانية",
+    "versions": {
+      "en": "german.html",
+      "ar": "german-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      },
+      {
+        "name": "الدورات",
+        "file": "courses-ar.html"
+      },
+      {
+        "name": "الألمانية",
+        "file": "german-ar.html"
+      }
+    ],
+    "course": {
+      "name": "دورة الألمانية في كارول",
+      "description": "تعرّف على الألمانية في كارول لتعليم اللغات بطرابلس. سواء كانت هذه بدايتك مع اللغة أو كنت ترجع إليها بعد فترة، احكِ لنا أولاً عمّا تريد أن تحقّقه من تعلّمها.",
+      "language": "German"
+    }
+  },
+  {
+    "file": "english-ar.html",
+    "lang": "ar",
+    "kind": "course",
+    "title": "دورات إنكليزي في طرابلس | كارول لتعليم اللغات",
+    "description": "تعرّف على دورات الإنكليزية في كارول لتعليم اللغات بطرابلس، لبنان. شاركنا هدفك من التعلّم وتواصل مباشرةً مع المركز عبر واتساب.",
+    "label": "الإنكليزية",
+    "versions": {
+      "en": "english.html",
+      "ar": "english-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      },
+      {
+        "name": "الدورات",
+        "file": "courses-ar.html"
+      },
+      {
+        "name": "الإنكليزية",
+        "file": "english-ar.html"
+      }
+    ],
+    "course": {
+      "name": "دورة الإنكليزية في كارول",
+      "description": "تعرّف على الإنكليزية في كارول لتعليم اللغات بطرابلس. ابدأ بالسبب الذي يدفعك لتعلّمها، من حديث يومي إلى اهتمام دراسي أو رغبة في التعبير عن نفسك براحة أكبر.",
+      "language": "English"
+    }
+  },
+  {
+    "file": "italian-ar.html",
+    "lang": "ar",
+    "kind": "course",
+    "title": "دورات إيطالي في طرابلس | كارول لتعليم اللغات",
+    "description": "اكتشف دورات الإيطالية في كارول لتعليم اللغات بطرابلس، لبنان. احكِ لنا عن سبب اهتمامك باللغة واسأل المركز عن الدورة.",
+    "label": "الإيطالية",
+    "versions": {
+      "en": "italian.html",
+      "ar": "italian-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      },
+      {
+        "name": "الدورات",
+        "file": "courses-ar.html"
+      },
+      {
+        "name": "الإيطالية",
+        "file": "italian-ar.html"
+      }
+    ],
+    "course": {
+      "name": "دورة الإيطالية في كارول",
+      "description": "اكتشف الإيطالية في كارول لتعليم اللغات بطرابلس. حبّ اللغة، أو الاهتمام بالثقافة، أو رحلة تحلم بها، كلّها أسباب جميلة لتبدأ الحديث معنا.",
+      "language": "Italian"
+    }
+  },
+  {
+    "file": "spanish-ar.html",
+    "lang": "ar",
+    "kind": "course",
+    "title": "دورات إسباني في طرابلس | كارول لتعليم اللغات",
+    "description": "تعرّف على دورات الإسبانية في كارول لتعليم اللغات بطرابلس، لبنان. شاركنا اهتماماتك، اسأل عن الإسبانية واعرف عنوان المركز.",
+    "label": "الإسبانية",
+    "versions": {
+      "en": "spanish.html",
+      "ar": "spanish-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      },
+      {
+        "name": "الدورات",
+        "file": "courses-ar.html"
+      },
+      {
+        "name": "الإسبانية",
+        "file": "spanish-ar.html"
+      }
+    ],
+    "course": {
+      "name": "دورة الإسبانية في كارول",
+      "description": "تعرّف على الإسبانية في كارول لتعليم اللغات بطرابلس. ابدأ باهتماماتك وبالأشخاص أو الأماكن أو الأحاديث التي تشجّعك على تعلّمها.",
+      "language": "Spanish"
+    }
+  },
+  {
+    "file": "french-ar.html",
+    "lang": "ar",
+    "kind": "course",
+    "title": "دورات فرنسي في طرابلس، لبنان | كارول لتعليم اللغات",
+    "description": "تعلّم الفرنسية في كارول لتعليم اللغات بطرابلس، لبنان. تعرّف على الفرنسية للمحادثة والدراسة والسفر واسأل عن الدورات المتاحة عبر واتساب.",
+    "label": "الفرنسية",
+    "versions": {
+      "en": "french.html",
+      "ar": "french-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      },
+      {
+        "name": "الدورات",
+        "file": "courses-ar.html"
+      },
+      {
+        "name": "الفرنسية",
+        "file": "french-ar.html"
+      }
+    ],
+    "course": {
+      "name": "دورة الفرنسية في كارول",
+      "description": "تعلّم الفرنسية في كارول لتعليم اللغات في شارع بشارة الخوري بطرابلس. سواء كانت الفرنسية جديدة عليك أو جزءاً من حياتك، احكِ لنا عمّا تريد فهمه أو قوله أو قراءته بثقة أكبر.",
+      "language": "French"
+    }
+  },
+  {
+    "file": "turkish-ar.html",
+    "lang": "ar",
+    "kind": "course",
+    "title": "دورات تركي في طرابلس، لبنان | كارول لتعليم اللغات",
+    "description": "اكتشف دورات التركية في كارول لتعليم اللغات بطرابلس، لبنان. تعرّف على التركية للمحادثة اليومية والسفر والثقافة وتواصل مباشرةً مع المركز.",
+    "label": "التركية",
+    "versions": {
+      "en": "turkish.html",
+      "ar": "turkish-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      },
+      {
+        "name": "الدورات",
+        "file": "courses-ar.html"
+      },
+      {
+        "name": "التركية",
+        "file": "turkish-ar.html"
+      }
+    ],
+    "course": {
+      "name": "دورة التركية في كارول",
+      "description": "تعرّف على التركية في كارول لتعليم اللغات بطرابلس. قد يبدأ اهتمامك برحلة، أو مسلسل تحبّه، أو شخص تريد أن تتحدّث معه. احكِ لنا عن سببك واسأل عن خيارات الدورات المتاحة.",
+      "language": "Turkish"
+    }
+  },
+  {
+    "file": "about-ar.html",
+    "lang": "ar",
+    "kind": "about",
+    "title": "عن مركز كارول في طرابلس | كارول لتعليم اللغات",
+    "description": "تعرّف على كارول لتعليم اللغات، مركز بأجواء دافئة وعائلية في شارع بشارة الخوري بطرابلس، لبنان. اكتشف المركز واللغات التي يقدّمها.",
+    "label": "عن المركز",
+    "versions": {
+      "en": "about.html",
+      "ar": "about-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      },
+      {
+        "name": "عن المركز",
+        "file": "about-ar.html"
+      }
+    ]
+  },
+  {
+    "file": "contact-ar.html",
+    "lang": "ar",
+    "kind": "contact",
+    "title": "التواصل والعنوان في طرابلس | كارول لتعليم اللغات",
+    "description": "تواصل مع كارول لتعليم اللغات على +961 78 957 735. موقعنا في شارع بشارة الخوري بطرابلس، بجانب KFC، في مبنى صيدلية بولفار.",
+    "label": "العنوان والتواصل",
+    "versions": {
+      "en": "contact.html",
+      "ar": "contact-ar.html"
+    },
+    "crumbs": [
+      {
+        "name": "الرئيسية",
+        "file": "index-ar.html"
+      },
+      {
+        "name": "العنوان والتواصل",
+        "file": "contact-ar.html"
+      }
+    ]
+  },
+  {
+    "file": "404.html",
+    "lang": "en",
+    "kind": "404",
+    "title": "Page not found | Carol for Language Courses",
+    "description": "Find your way back to the language courses and contact details at Carol in Tripoli, Lebanon.",
+    "label": "Page not found",
+    "versions": {
+      "en": "index.html",
+      "ar": "index-ar.html"
+    },
+    "crumbs": [],
+    "noindex": true
+  }
+]

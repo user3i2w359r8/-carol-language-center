@@ -1,0 +1,34 @@
+# Carol for Language Courses
+
+> Language tutoring center in Tripoli, Lebanon.
+
+## Business information
+- Languages: German, English, Italian, Spanish, French, Turkish.
+- Address: Beshara Khoury Street, next to KFC, same building as Boulevard Pharmacy, Tripoli, Lebanon.
+- Phone: +961 78 957 735
+- [Directions on Google Maps](https://www.google.com/maps/place/Carol+for+language+courses/@34.4297915,35.8344667,17z/data=!3m1!4b1!4m6!3m5!1s0x1521f7a7dbf08dab:0xce3d3332c3dd05bb!8m2!3d34.4297915!4d35.8344667!16s%2Fg%2F11yd_7nh72)
+- [Instagram](https://www.instagram.com/carol_for_language_courses_/)
+
+## English pages
+- [Home](index.html): Explore German, English, Italian, Spanish, French and Turkish courses at Carol in Tripoli, Lebanon. Find your language and contact us on WhatsApp.
+- [Courses](courses.html): Discover German, English, Italian, Spanish, French and Turkish at Carol in Tripoli, Lebanon. Explore each course and enquire directly with the center.
+- [German](german.html): Explore German lessons at Carol for Language Courses in Tripoli, Lebanon. Tell us your learning goals, ask about the course and find the center.
+- [English](english.html): Find English lessons at Carol for Language Courses in Tripoli, Lebanon. Share your goals for English and contact the center directly on WhatsApp.
+- [Italian](italian.html): Discover Italian lessons at Carol for Language Courses in Tripoli, Lebanon. Explore your reasons for learning Italian and ask the center about the course.
+- [Spanish](spanish.html): Explore Spanish lessons at Carol for Language Courses in Tripoli, Lebanon. Share your interests, ask about Spanish and get directions to the center.
+- [French](french.html): Learn French at Carol for Language Courses in Tripoli, Lebanon. Explore French for conversation, study or travel and ask about available courses on WhatsApp.
+- [Turkish](turkish.html): Learn Turkish at Carol for Language Courses in Tripoli, Lebanon. Explore Turkish for everyday conversation, travel and culture. Contact the center directly.
+- [Our center](about.html): Meet Carol for Language Courses, a welcoming language tutoring center on Beshara Khoury Street in Tripoli, Lebanon. Discover our center and its languages.
+- [Visit & contact](contact.html): Contact Carol for Language Courses on +961 78 957 735. Find us on Beshara Khoury Street in Tripoli, next to KFC, in the Boulevard Pharmacy building.
+
+## الصفحات العربية
+- [الرئيسية](index-ar.html): تعلّم الألمانية، الإنكليزية، الإيطالية، الإسبانية، الفرنسية، التركية في كارول لتعليم اللغات بطرابلس، لبنان. تعرّف على الدورات وتواصل معنا عبر واتساب واعرف موقع المركز.
+- [الدورات](courses-ar.html): اكتشف دورات اللغات في كارول بطرابلس، لبنان. لكلّ من الألمانية، الإنكليزية، الإيطالية، الإسبانية، الفرنسية، التركية صفحة خاصة لتعرف المزيد وتتواصل مع المركز.
+- [الألمانية](german-ar.html): تعرّف على دورات الألمانية في كارول لتعليم اللغات بطرابلس، لبنان. احكِ لنا عن هدفك، اسأل عن الدورة واعرف كيف تصل إلى المركز.
+- [الإنكليزية](english-ar.html): تعرّف على دورات الإنكليزية في كارول لتعليم اللغات بطرابلس، لبنان. شاركنا هدفك من التعلّم وتواصل مباشرةً مع المركز عبر واتساب.
+- [الإيطالية](italian-ar.html): اكتشف دورات الإيطالية في كارول لتعليم اللغات بطرابلس، لبنان. احكِ لنا عن سبب اهتمامك باللغة واسأل المركز عن الدورة.
+- [الإسبانية](spanish-ar.html): تعرّف على دورات الإسبانية في كارول لتعليم اللغات بطرابلس، لبنان. شاركنا اهتماماتك، اسأل عن الإسبانية واعرف عنوان المركز.
+- [الفرنسية](french-ar.html): تعلّم الفرنسية في كارول لتعليم اللغات بطرابلس، لبنان. تعرّف على الفرنسية للمحادثة والدراسة والسفر واسأل عن الدورات المتاحة عبر واتساب.
+- [التركية](turkish-ar.html): اكتشف دورات التركية في كارول لتعليم اللغات بطرابلس، لبنان. تعرّف على التركية للمحادثة اليومية والسفر والثقافة وتواصل مباشرةً مع المركز.
+- [عن المركز](about-ar.html): تعرّف على كارول لتعليم اللغات، مركز بأجواء دافئة وعائلية في شارع بشارة الخوري بطرابلس، لبنان. اكتشف المركز واللغات التي يقدّمها.
+- [العنوان والتواصل](contact-ar.html): تواصل مع كارول لتعليم اللغات على +961 78 957 735. موقعنا في شارع بشارة الخوري بطرابلس، بجانب KFC، في مبنى صيدلية بولفار.

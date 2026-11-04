@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, follow">
+<meta name="theme-color" content="#2C2925">
+<title>Website settings | Carol — owner tool</title>
+<meta name="description" content="Offline owner tool for adding the final website address, email and Facebook page to the Carol website files.">
+<link rel="icon" href="favicon.png" sizes="64x64" type="image/png">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="site-settings.css">
+<script src="site-engine.js" defer></script>
+<script src="site-settings.js" defer></script>
+</head>
+<body class="settings-body">
+<header class="settings-header wrap"><a class="brand" href="index.html"><img class="brand-logo" src="logo-wordmark.webp" width="1029" height="444" alt="Carol for Language Courses — كارول لتعليم اللغات"></a><span class="owner-label">Owner tool · Works offline</span></header>
+<main class="wrap settings-main" id="main">
+<div class="settings-intro"><p class="eyebrow">Ready when you are</p><h1>Add the final details.</h1><p class="lead">When your website address or email is ready, update the whole website here. You’ll get a new ZIP containing the updated files, all in one folder.</p><p class="settings-ar" lang="ar" dir="rtl">عندما يصبح عنوان الموقع أو البريد الإلكتروني جاهزاً، أضفه هنا لتحصل على نسخة محدّثة من جميع الملفات. هذه الصفحة خاصّة بإعداد الموقع، وليست صفحة للطلاب.</p></div>
+<noscript><p class="notice">This settings tool needs JavaScript. The public website still works without it. You can also edit business-profile.json and run node build-site.mjs.</p></noscript>
+<form id="settings-form" class="settings-panel">
+<section aria-labelledby="folder-title"><span class="settings-step">01</span><h2 id="folder-title">Choose your website folder.</h2><p>Select the extracted folder containing <strong>index.html</strong> and <strong>business-profile.json</strong>. Use desktop Chrome or Edge. Your files stay on your device.</p><label class="folder-label" for="site-folder">Website folder</label><input id="site-folder" type="file" webkitdirectory multiple aria-describedby="folder-note"><p class="field-note" id="folder-note">Only the website files listed in site-files.json are included. Other files and subfolders are ignored.</p><p class="settings-status" id="folder-status" role="status" aria-live="polite">No folder selected.</p></section>
+<fieldset id="settings-fields" disabled><legend class="visually-hidden">Website details</legend><section aria-labelledby="details-title"><span class="settings-step">02</span><h2 id="details-title">Add the details you have.</h2><div class="form-field"><label for="base-url">Published website address <span>(optional for now)</span></label><input type="url" id="base-url" autocomplete="url" spellcheck="false" inputmode="url" placeholder="https://" aria-describedby="url-note"><p class="field-note" id="url-note">Paste the full address of the published website, including its repository folder if it uses one. Use HTTPS. Leave off index.html. Leave this blank until the real address is known.</p></div><div class="form-field"><label for="business-email">Business email <span>(optional)</span></label><input type="email" id="business-email" autocomplete="email" spellcheck="false" aria-describedby="email-note"><p class="field-note" id="email-note">Only add an email after the mailbox has been created. Blank means no email is shown.</p></div><div class="form-field"><label for="facebook-url">Facebook page URL <span>(optional)</span></label><input type="url" id="facebook-url" autocomplete="url" spellcheck="false" placeholder="https://www.facebook.com/" aria-describedby="facebook-note"><p class="field-note" id="facebook-note">Add the exact business page link. Leave blank if you do not have it yet.</p></div></section><section class="settings-download" aria-labelledby="download-title"><span class="settings-step">03</span><h2 id="download-title">Download the updated website.</h2><p>The tool updates the page metadata, language alternates, structured business information, email links, sitemap and discovery files together.</p><button class="button" type="submit" id="download-button">Download updated website</button><p class="field-note">Extract the new ZIP into a new folder, then replace the website files on your host when you are ready. This tool does not publish anything or change your original folder.</p></section></fieldset>
+<p class="settings-status" id="settings-status" role="status" aria-live="polite"></p>
+</form>
+<aside class="settings-help"><h2>Need to change something else?</h2><p>Contact details live in <strong>business-profile.json</strong>. Course copy lives in <strong>site-content.js</strong>. The optional <strong>build-site.mjs</strong> script rebuilds the static pages after those edits. See <a href="README.txt">README.txt</a> for the complete instructions.</p><p>Adding the website address generates real canonical URLs, reciprocal English/Arabic language tags and a populated sitemap. Until then, those URL-dependent fields are intentionally left unset.</p></aside>
+<p class="settings-back"><a href="index.html">← Back to the website</a></p>
+</main>
+</body>
+</html>
