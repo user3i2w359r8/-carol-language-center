@@ -1,0 +1,80 @@
+CAROL — ACCOUNT PROTECTION AND RECOVERY
+
+PUBLIC WEBSITE
+
+Website: https://carollanguages.site/
+Repository owner: user3i2w359r8
+Repository name: -carol-language-center
+Domain registrar selected: Namecheap
+
+The supplied package contains public business information, static pages and
+public assets. It contains no student database, passwords, private payment
+records, API credentials or server-side account. The contact form only creates
+a WhatsApp draft; visitors choose whether to send it through WhatsApp.
+Never add account passwords, recovery codes, private student information or
+access tokens to this repository. Its source is public.
+
+WHAT THE WEBSITE CANNOT PROTECT AGAINST
+
+If someone obtains repository write access, they can replace the displayed
+phone number, links, scripts or pages. HTML, a hidden URL, a browser password
+prompt or a checksum stored in the same repository cannot prevent that.
+Copying the public repository by itself gives no permission to modify yours.
+
+PROTECT THE ACCOUNTS
+
+1. Use different, unique passwords for GitHub, Namecheap and the email account
+   used to recover them. Protect that email account with two-factor login too.
+2. Enable two-factor authentication on GitHub and Namecheap. Add a GitHub
+   passkey where supported. Save recovery codes outside the repository in a
+   password manager or another safe offline location.
+3. Keep GitHub collaborators and authorized applications limited to those you
+   actually need. Review and remove unfamiliar sessions, keys or tokens.
+4. Verify carollanguages.site in your GitHub PERSONAL account's Pages settings
+   using the DNS TXT challenge. Keep the verification TXT record afterward.
+   Verification protects against another GitHub account claiming an unlinked
+   domain; it does not prevent defacement from a compromised authorized account.
+5. Keep Namecheap ownership and recovery access independent of repository
+   files. Do not create wildcard DNS records for this setup.
+6. Save this trusted ZIP outside GitHub: on your computer plus an independent
+   backup. Keep screenshots or a note of the expected DNS records separately.
+7. Note the registration expiry and renewal setting. If registration expires,
+   the domain may stop working and can eventually become available to others.
+
+DOMAIN CONNECTION
+
+GitHub personal account > Settings > Pages > Add a domain: carollanguages.site
+Add GitHub's exact TXT verification record at Namecheap, then verify in GitHub.
+The unique TXT value must come from your account; no value is supplied here.
+
+Repository > Settings > Pages > Custom domain: carollanguages.site
+Save that before changing the public website routing records at Namecheap.
+
+Namecheap > Domain List > Manage > Advanced DNS (when using Namecheap DNS):
+A      @     185.199.108.153
+A      @     185.199.109.153
+A      @     185.199.110.153
+A      @     185.199.111.153
+CNAME  www   user3i2w359r8.github.io
+TTL: Automatic
+
+Replace only conflicting website parking/redirect records for @ or www.
+Retain MX/email records, verification TXT records and unrelated services.
+The www CNAME value has no https:// and no repository path.
+Enable Enforce HTTPS in repository Pages settings once the certificate is ready.
+
+IF THE REPOSITORY OR ACCOUNT IS COMPROMISED
+
+- Secure your recovery email and Namecheap account first and verify the DNS.
+- Stop the malicious site being served: if GitHub access remains, disable its
+  publishing while recovering it. If you cannot access GitHub, use Namecheap
+  to repoint the domain to a clean host/maintenance page that you control.
+- Recover GitHub, remove attacker access, revoke affected credentials and
+  restore the trusted ZIP. Alternatively publish the backup from a clean,
+  secured hosting account and reconnect the domain.
+- Confirm the visible business identity, both telephone numbers, Maps,
+  Instagram and WhatsApp destination against the original business records.
+- Check the whole source for unexpected scripts before publishing it again.
+
+Keeping control of Namecheap and an independent backup gives you a recovery
+path. It is not a guarantee against account theft or website downtime.

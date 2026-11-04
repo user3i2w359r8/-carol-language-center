@@ -15,7 +15,7 @@
 
 ## Set the final public URL
 
-No GitHub username/repository URL or domain was supplied. No address has been guessed. The initial package therefore omits URL-dependent canonical/hreflang/sharing-image fields and contains an intentionally empty sitemap.
+This package is configured for https://carollanguages.site/ . Canonical URLs, language alternates, sharing-image URLs and all 20 sitemap entries are populated. Upload the updated files to GitHub to apply this configuration to the live site.
 
 Open `site-settings.html` locally, choose the extracted folder, enter the full HTTPS website base URL, download the updated ZIP, then publish those files. Include the repository path for a GitHub project site. This writes the following into the static files:
 

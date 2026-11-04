@@ -64,6 +64,15 @@
       'site.webmanifest':engine.manifest(profile)
     };
     for(const [name,text] of Object.entries(replacements)) output.set(name,encoder.encode(text));
+    const domain = engine.cname(profile);
+    if (domain) {
+      output.set('CNAME',encoder.encode(domain));
+      if (!index.files.includes('CNAME')) index.files.push('CNAME');
+    } else {
+      output.delete('CNAME');
+      index.files = index.files.filter(name=>name!=='CNAME');
+    }
+    output.set('site-files.json',encoder.encode(engine.json({...index,files:index.files.sort()})+'\n'));
     output.set('.nojekyll',new Uint8Array());
     return {files:output,profile};
   }

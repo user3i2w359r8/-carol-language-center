@@ -42,6 +42,12 @@
     return new URL(file === 'index.html' ? './' : file, profile.baseUrl).href;
   }
 
+  function cname(profile) {
+    if (!profile.baseUrl) return '';
+    const host = new URL(profile.baseUrl).hostname;
+    return host === 'github.io' || host.endsWith('.github.io') ? '' : host + '\n';
+  }
+
   function languageList(profile, lang = 'en') {
     const values = lang === 'ar' ? profile.languagesAr : profile.languages;
     if (!values || !values.length) return '';
@@ -167,5 +173,5 @@
   function manifest(profile) {
     return json({name:profile.name,short_name:'Carol',description:languageList(profile)+' in Tripoli, Lebanon.',lang:'en',start_url:'./',scope:'./',display:'browser',background_color:'#FCF7EF',theme_color:'#2C2925',icons:[{src:'icon-192.png',sizes:'192x192',type:'image/png'},{src:'icon-512.png',sizes:'512x512',type:'image/png'}]})+'\n';
   }
-  return {esc,json,normalizeBaseUrl,validateProfile,pageUrl,languageList,metadata,optionalContacts,patchPage,base404,sitemap,robots,llms,manifest};
+  return {esc,json,normalizeBaseUrl,validateProfile,pageUrl,cname,languageList,metadata,optionalContacts,patchPage,base404,sitemap,robots,llms,manifest};
 });

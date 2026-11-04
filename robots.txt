@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Add the final website address with site-settings.html before launch.
+Sitemap: https://carollanguages.site/sitemap.xml

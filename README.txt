@@ -62,9 +62,11 @@ GitHub Pages. No React, npm installation, PHP or server runtime is needed.
 
 REQUIRED FOR COMPLETE SEO: ADD YOUR REAL PUBLIC WEBSITE URL
 
-The final GitHub owner/repository or domain was not provided. The initial
-sitemap is intentionally empty, and no public address has been guessed.
-The website itself is ready to open now.
+This package is already configured for your published website:
+https://carollanguages.site/
+The canonical links, language alternates, social-image URLs and 20-page
+sitemap are populated. Upload these files to replace the current GitHub
+repository files. Use the settings steps below only if the URL changes.
 
 1. Open site-settings.html LOCALLY from the extracted folder in desktop
    Chrome or Edge.
@@ -128,3 +130,11 @@ This package is prepared for GitHub Pages; it has not been deployed to your
 GitHub account. Indexing, rankings, rich results, account ownership and Google
 Business Profile changes are separate from editing the website. See
 SEO-NOTES.md for implementation details and official documentation links.
+
+CUSTOM DOMAIN PACKAGE
+
+This version includes CNAME containing carollanguages.site. Keep that file in
+the repository root. Configure and verify the domain in your GitHub account,
+set the repository Pages custom domain, then set Namecheap DNS records.
+The ZIP alone does not change DNS or any account settings. See
+SECURITY-AND-RECOVERY.txt for account protection and recovery instructions.

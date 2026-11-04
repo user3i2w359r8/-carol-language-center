@@ -3,7 +3,9 @@
   "files": [
     ".nojekyll",
     "404.html",
+    "CNAME",
     "README.txt",
+    "SECURITY-AND-RECOVERY.txt",
     "SEO-NOTES.md",
     "about-ar.html",
     "about.html",

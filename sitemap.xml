@@ -1,4 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <!-- Set the real website address with site-settings.html to generate public URLs. -->
+  <url>
+    <loc>https://carollanguages.site/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/index-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/courses.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/courses.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/courses-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/courses.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/german.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/german.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/german-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/german.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/english.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/english.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/english-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/english.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/italian.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/italian.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/italian-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/italian.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/spanish.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/spanish.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/spanish-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/spanish.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/french.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/french.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/french-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/french.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/turkish.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/turkish.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/turkish-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/turkish.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/about-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/about.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/contact-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/contact.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/index-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/index-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/courses-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/courses.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/courses-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/courses.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/german-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/german.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/german-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/german.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/english-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/english.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/english-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/english.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/italian-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/italian.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/italian-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/italian.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/spanish-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/spanish.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/spanish-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/spanish.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/french-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/french.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/french-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/french.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/turkish-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/turkish.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/turkish-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/turkish.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/about-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/about-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/about.html"/>
+  </url>
+  <url>
+    <loc>https://carollanguages.site/contact-ar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://carollanguages.site/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://carollanguages.site/contact-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://carollanguages.site/contact.html"/>
+  </url>
 </urlset>
